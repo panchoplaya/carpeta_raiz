@@ -1,0 +1,21 @@
+.fixed-top {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.navbar-brand img {
+    width: 20%;
+    color: white;
+}
+
+#hero {
+    background-image: url(img/post-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 10%;
+    margin-top: 56px !important;
+    text-align: center !important;
+    width: 100% !important;
+    height: 600px;
+}

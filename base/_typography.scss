@@ -1,0 +1,21 @@
+@import "../abstracts/variable";
+
+body {
+    font-family: 'Roboto', 'Playfair Display' ;
+}
+
+#hero h1 {
+    font-size: 70px;
+    font-family: $titulos ;
+    font-weight: 900;
+    font-style: italic;
+    color: white;
+    padding-top: 60px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.nav-link {
+    font-family: $menu;
+    color: white !important;
+    
+}

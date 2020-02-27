@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", "Playfair Display";
+}
+
+#hero h1 {
+  font-size: 70px;
+  font-family: "Playfair Display";
+  font-weight: 900;
+  font-style: italic;
+  color: white;
+  padding-top: 60px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.nav-link {
+  font-family: "roboto";
+  color: white !important;
+}
+
+.fixed-top {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.navbar-brand img {
+  width: 20%;
+  color: white;
+}
+
+#hero {
+  background-image: url(img/post-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 10%;
+  margin-top: 56px !important;
+  text-align: center !important;
+  width: 100% !important;
+  height: 600px;
+}
+
+/*# sourceMappingURL=style.css.map */
