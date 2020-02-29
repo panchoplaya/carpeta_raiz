@@ -13,9 +13,35 @@ body {
     padding-top: 60px;
     padding-left: 10%;
     padding-right: 10%;
+    text-shadow: 2px 2px 10px #242424;
 }
-.nav-link {
-    font-family: $menu;
-    color: white !important;
+
+.fecha {
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 16px;
+    color: grey;
+}
+
+.parrafo p {
+    font-weight: 300;
+    font-size: 16px;
     
+}
+
+.info h1 {
+    font-family: "Playfair Display";
+    font-weight: 900;
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+.texto {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.info a {
+    color: #DE8684;
 }

@@ -1,1 +1,37 @@
-Crea el archivo components 
+.nav-link {
+    font-family: $menu;
+    color: white;
+}
+
+
+.nav-link:hover {
+    color: #DE8684;
+}
+
+.btn {
+    border-radius: 100px !important;
+    margin: 1%;
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.siguiente a {
+    padding: 8px 16px;
+    color: black;
+    background-color: white;
+    margin: 0;
+}
+.siguiente a:hover {
+    background-color: #121619;
+    color: white
+}
+.back {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.next {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
